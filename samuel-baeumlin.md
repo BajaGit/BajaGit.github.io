@@ -1,0 +1,15 @@
+---
+layout: page
+permalink: /samuel-baeumlin/index.html
+title: Samuel Bäumlin
+tags: [BajaGit, Samuel, Bäumlin, Baeumlin]
+image:
+  feature: Hossain-Mohd-Faysal.jpg
+---
+
+  <img src="{{ site.url }}/images/hossain-faysal.jpg" alt="Hossain Mohammad Faysal">
+
+
+My name is **Samuel Bäumlin**, and this is my personal blog.  
+
+
